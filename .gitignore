@@ -1,0 +1,17 @@
+.env
+.venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+build/
+dist/
+*.sqlite3
+*.log
+instance/
+.pytest_cache/
+coverage/
+docker-compose.override.yml
